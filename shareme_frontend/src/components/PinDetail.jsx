@@ -72,12 +72,12 @@ function PinDetail({ user }) {
           />
         </div>
         <div className="w-full p-5 flex-1 xl:min-w-620">
-          <div className=" flex items-center justify-between">
-            <div className="flex gap-2 items-center">
+          <div className=" flex items-center justify-between ">
+            <div className="flex gap-2 items-center z-0">
               <a
                 href={`${pinDetail.image.asset.url}?dl=`}
                 download
-                className="bg-secondaryColor p-2 text-xl rounded-full flex items-center justify-center text-dark opacity-75 hover:opacity-100"
+                className="bg-secondaryColor p-2 text-xl rounded-full flex items-center justify-center text-dark opacity-75 hover:opacity-100 z-auto"
               >
                 <MdDownloadForOffline />
               </a>
