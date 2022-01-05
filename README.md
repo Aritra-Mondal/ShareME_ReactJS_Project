@@ -1,6 +1,6 @@
 # ShareMe Social Media Application
 
-![ShareMe](https://i.ibb.co/8cLfj3X/image.png)
+![ShareMe](https://drive.google.com/file/d/1eKFOpwZmvuR9G9WxcCF5_Y2kMoxbzaxR/view?usp=sharing)
 
 ## Introduction
 
