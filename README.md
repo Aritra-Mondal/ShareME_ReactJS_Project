@@ -15,4 +15,4 @@ This is a project build on idea of Pinterest or Unsplash. It is an image sharing
 - Tailwind Css is used for styling
 - Netlify is used to deploy live
 
-[Here you can checkout](https://imageshareme.netlify.app/).
+[Here you can checkout](https://imageshareme.netlify.app/)
