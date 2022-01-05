@@ -114,7 +114,7 @@ function Pin({ pin }) {
                   {destination?.slice(8, 17)}...
                 </a>
               )}
-              {postedBy?._id === user.googleId && (
+              {postedBy?._id === user?.googleId && (
                 <button
                   type="button"
                   onClick={(e) => {
