@@ -1,6 +1,6 @@
 # ShareMe Social Media Application
 
-![ShareMe](https://drive.google.com/file/d/1eKFOpwZmvuR9G9WxcCF5_Y2kMoxbzaxR/view?usp=sharing)
+![ShareMe](https://github.com/Aritra-Mondal/ShareME_ReactJS_Project/blob/main/shareME.png?raw=true)
 
 ## Introduction
 
